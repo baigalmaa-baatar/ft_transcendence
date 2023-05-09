@@ -1,0 +1,20 @@
+npm i -g @nestjs/cli
+npm i prisma @prisma/client
+npm i --save @nestjs/jwt passport-jwt
+npm i --save-dev @types/passport-jwt
+npm i --save class-validator class-transformer
+npm i --save @nestjs/config
+npm i --save argon2
+npm i --save passport passport-42
+npm i otplib
+npm i --save-dev @types/qrcode
+npm update
+
+___
+
+Automatic test with pactum end2end testing :
+
+
+___
+
+npm run start:dev
